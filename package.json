@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for removing all comments from js file",
   "main": "App.js",
+  "bin": { 
+  "rm-comments": "cli.js" 
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
